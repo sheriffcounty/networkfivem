@@ -1,2 +1,2 @@
 # networkfivem
-Network:Y
+Исходный код проекта Network:Y (Серверная часть)
