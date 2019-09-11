@@ -1,0 +1,2 @@
+# networkfivem
+Network:Y
